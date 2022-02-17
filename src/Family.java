@@ -1,5 +1,4 @@
 public class Family {
-    private Family[] families;
     private String name1;
     private String name2;
     private String name3;

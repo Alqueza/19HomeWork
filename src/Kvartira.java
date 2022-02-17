@@ -9,7 +9,8 @@ public class Kvartira extends Family implements Comunal {
 
     @Override
     public String toString() {
-        return super.toString();
+        return super.toString()+
+        "\nFamily members 3";
     }
 
     @Override

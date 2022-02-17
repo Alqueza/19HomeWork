@@ -7,13 +7,13 @@ public class Main {
         dom1.comunalka();
         System.out.println();
 
-        Obshejitie obshaga = new Obshejitie("Abai","Daniyar","Chyngyz");
+        Obshejitie obshaga = new Obshejitie("Abai","Daniyar","Chyngyz","Rasul","Aziret");
         System.out.println(obshaga);
         obshaga.adress();
         obshaga.arenda();
         System.out.println();
 
-        Gostinitsa gostinitsa = new Gostinitsa("Kadyr","Mark","Ostin");
+        Gostinitsa gostinitsa = new Gostinitsa("Kadyr","Mark","Ostin","Rye");
         System.out.println(gostinitsa);
         gostinitsa.adress();
         gostinitsa.arenda();
