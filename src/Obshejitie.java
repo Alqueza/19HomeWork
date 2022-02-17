@@ -4,6 +4,7 @@ public class Obshejitie extends  Family implements Arenda {
 
     private String name4;
     private String name5;
+
     public Obshejitie(String name1, String name2, String name3,String name4,String name5) {
         super(name1, name2, name3);
         this.name4 = name4;
