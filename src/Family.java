@@ -40,9 +40,9 @@ public class Family {
     @Override
     public String toString() {
         return "Family" +
-                "\nname = " + name1 +
-                "\nname = " + name2 +
-                "\nname = " + name3
+                "\nname#1 = " + name1 +
+                "\nname#2 = " + name2 +
+                "\nname#3 = " + name3
                 ;
     }
     public void adress(){
